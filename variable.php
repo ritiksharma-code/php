@@ -19,7 +19,7 @@
         var_dump($d);
         echo "<br>";
         echo "my car is $car <br>";
-        echo "my car is $car ";
+        echo "my car is $car "."<br>";
         echo "my car is ". $car. " color blue";         // Concatenation of string
 
     ?>
